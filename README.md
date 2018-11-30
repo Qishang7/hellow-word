@@ -1,7 +1,7 @@
 HelloAction.java:
 
     /**
-     * @Auther: likang
+     * @Auther: JankQi
      * @Date: 2018/11/21 16:06
      * @Description: hello请求的处理类
      */
@@ -9,7 +9,7 @@ HelloAction.java:
 
         /**
         * @Description 请求接收的处理方法
-        * @Author  likang
+        * @Author  JankQi
         * @Date   2018/11/21 16:07
         * @Param  []
         * @Return      java.lang.String
